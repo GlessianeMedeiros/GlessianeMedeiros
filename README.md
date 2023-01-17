@@ -1,4 +1,6 @@
 ### Hi there 👋
+Sou estudante de programção. 
+Amo a parte do front-end.
 
 <!--
 **GlessianeMedeiros/GlessianeMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
